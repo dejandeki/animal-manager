@@ -71,6 +71,10 @@
 			<a href="${pageContext.request.contextPath}/dog/list">To
 				Dog List</a>
 		</p>
+		<p>
+		<a href="${pageContext.request.contextPath}/cat/list">To
+			Cat List</a>
+		</p>
 	</div>
 </body>
 </html>
